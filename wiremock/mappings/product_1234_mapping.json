@@ -1,0 +1,11 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/products/"
+    },
+    "response": {
+        "headers": { "content-type": "application/json" },
+        "status": 200,
+        "bodyFileName": "product_1234.json"
+    }
+}

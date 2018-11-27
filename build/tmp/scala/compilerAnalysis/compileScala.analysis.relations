@@ -1,0 +1,28 @@
+products:
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> C:\washington\estudos\scala\spark-kafka\build\classes\scala\main\Example$$anonfun$1.class
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> C:\washington\estudos\scala\spark-kafka\build\classes\scala\main\Example$$anonfun$main$1$$anonfun$apply$1.class
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> C:\washington\estudos\scala\spark-kafka\build\classes\scala\main\Example$$anonfun$main$1.class
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> C:\washington\estudos\scala\spark-kafka\build\classes\scala\main\Example$.class
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> C:\washington\estudos\scala\spark-kafka\build\classes\scala\main\Example.class
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\teste\Testando.scala -> C:\washington\estudos\scala\spark-kafka\build\classes\scala\main\teste\Testando$.class
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\teste\Testando.scala -> C:\washington\estudos\scala\spark-kafka\build\classes\scala\main\teste\Testando.class
+binary dependencies:
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> C:\Program Files\Java\jdk1.8.0_171\jre\lib\rt.jar
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> C:\Users\w.a.da.silva\.gradle\caches\modules-2\files-2.1\org.apache.kafka\kafka-clients\2.0.0\48bcf5ebb6effdaffbc2f725aae954f764d25341\kafka-clients-2.0.0.jar
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> C:\Users\w.a.da.silva\.gradle\caches\modules-2\files-2.1\org.apache.kafka\kafka_2.11\0.8.2.1\5d4c38ae00d6af72a6b966c66432ff7f600e1414\kafka_2.11-0.8.2.1.jar
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> C:\Users\w.a.da.silva\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.4.0\2eebc2356fa310b7cc0308b672b08cecfe85eb70\spark-core_2.11-2.4.0.jar
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> C:\Users\w.a.da.silva\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-streaming-kafka-0-10_2.11\2.4.0\7460035aa481d892ce86c887c5003f5212ba74c3\spark-streaming-kafka-0-10_2.11-2.4.0.jar
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> C:\Users\w.a.da.silva\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-streaming_2.11\2.4.0\7b7302ec2ad749523451b2d6cc8398500ae5c45c\spark-streaming_2.11-2.4.0.jar
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> C:\Users\w.a.da.silva\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\teste\Testando.scala -> C:\Program Files\Java\jdk1.8.0_171\jre\lib\rt.jar
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\teste\Testando.scala -> C:\Users\w.a.da.silva\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+source dependencies:
+external dependencies:
+class names:
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> Example
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> Example$
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> Example$$anonfun$1
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> Example$$anonfun$main$1
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\Example.scala -> Example$$anonfun$main$1$$anonfun$apply$1
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\teste\Testando.scala -> teste.Testando
+   C:\washington\estudos\scala\spark-kafka\src\main\scala\teste\Testando.scala -> teste.Testando$
