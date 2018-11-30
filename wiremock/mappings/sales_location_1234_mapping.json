@@ -1,11 +1,11 @@
 {
     "request": {
         "method": "GET",
-        "url": "/products/"
+        "url": "/saleslocations/"
     },
     "response": {
         "headers": { "content-type": "application/json" },
         "status": 200,
-        "bodyFileName": "product_1234.json"
+        "bodyFileName": "sales_location_1234.json"
     }
 }
