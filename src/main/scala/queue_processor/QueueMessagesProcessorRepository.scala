@@ -1,3 +1,4 @@
+package queue_processor;
 import org.apache.spark.SparkConf
 import org.apache.spark.streaming.StreamingContext
 import org.apache.spark.streaming.Seconds
@@ -10,9 +11,9 @@ import get_sales_location_by_code.SalesLocationService
 import get_sales_location_by_code.SalesLocationRepository
 
 
-class SalesQueueListenerRepository {
+class QueueMessagesProcessorRepository {
   private var streamingContext = None: Option[StreamingContext]
-  def listen() = {
+  def listenQueue() = {
     setUpStreamingContext()
     setUpDirectStream()
     startListener()
